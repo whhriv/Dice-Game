@@ -1,0 +1,22 @@
+#container {
+    background: rgba(0,0,0,0.4);
+    color: #fff;
+
+}
+body {
+    background-image: url("./background.jpg");
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    background-color: black;
+
+
+}
+
+img {
+    display: inline;
+    height: 100px;
+    width: 100px;
+  }
+  nav {
+    background: rgba(0,0,0,0.04) !important;
+  }
